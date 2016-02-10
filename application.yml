@@ -1,5 +1,5 @@
 info:
-  description: Config server 1
+  description: Config server 2
 eureka:
   client:
     serviceUrl:
