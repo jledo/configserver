@@ -1,6 +1,4 @@
-info:
-  description: Config server 4
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://eureka:8761/eureka/
+paypal:
+  clientId: Config server 4
+  clientSecret: Config server 4
+  production: Config server 4
